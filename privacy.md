@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated September 25, 2026**
+**Last updated October 8, 2026**
 
 This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes how and why we might access, collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), including when you:
 
@@ -50,11 +50,13 @@ We process the text you submit only to provide the core function of the keyboard
 
 ## 3. WHEN AND WITH WHOM DO WE SHARE YOUR INFORMATION?
 
-The only third party that receives the text you submit is **Google LLC** (Gemini API), strictly to generate the check or translation result. We do not sell, rent, or trade any information. We have no advertising partners, no data brokers, and no analytics providers.
+The only third party that receives the text you submit is **Google LLC** (Gemini API), strictly to generate the check or translation result.
+
+We use the Gemini API as a paid service. Under the [Gemini API Additional Terms of Service](https://ai.google.dev/gemini-api/terms) (effective March 23, 2026), Google processes these prompts and responses as our data processor, under its Data Processing Addendum for Products Where Google is a Data Processor. For paid services Google does not use your prompts or responses to improve its products, and it logs them only for a limited period of time, solely for detecting and preventing violations of its Prohibited Use Policy. Those terms and Google's security commitments give the text you submit protection at least equal to this notice. We do not sell, rent, or trade any information. We have no advertising partners, no data brokers, and no analytics providers.
 
 ## 4. HOW LONG DO WE KEEP YOUR INFORMATION?
 
-We keep none of your content: we operate no server that stores it. Your on-device goal and toolbar padding preferences are retained until you change them or delete the app and keyboard. Google's transient processing of Gemini API requests is governed by Google's terms linked above.
+We keep none of your content: we operate no server that stores it. Your on-device goal and toolbar padding preferences are retained until you change them or delete the app and keyboard. Google logs paid Gemini API prompts and responses only for the limited abuse-detection period described in its terms linked above; it does not keep them to improve its products.
 
 ## 5. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
